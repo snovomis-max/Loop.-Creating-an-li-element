@@ -9,13 +9,13 @@ The program dynamically creates multiple <li> elements inside a list using a loo
 
 Functionality:
 
--Demonstrates how to generate multiple HTML elements with JavaScript
+- Demonstrates how to generate multiple HTML elements with JavaScript
 
--Uses loop structures to automate creation
+- Uses loop structures to automate creation
 
--Appends new <li> items to an existing <ul> or <ol> list
+- Appends new <li> items to an existing <ul> or <ol> list
 
--Can be adapted to include user input or randomized content
+- Can be adapted to include user input or randomized content
 
 Technology Used: JavaScript
 
@@ -28,13 +28,13 @@ Perfect for learning how to dynamically generate content and practice DOM manipu
 
 Функціонал:
 
--Демонструє створення кількох HTML-елементів через JavaScript
+- Демонструє створення кількох HTML-елементів через JavaScript
 
--Використовує цикли для автоматизації процесу
+- Використовує цикли для автоматизації процесу
 
--Додає нові елементи <li> до існуючого списку <ul> або <ol>
+- Додає нові елементи <li> до існуючого списку <ul> або <ol>
 
--Може бути доповнена введенням користувача або випадковими даними
+- Може бути доповнена введенням користувача або випадковими даними
 
 Використана технологія: JavaScript
 
